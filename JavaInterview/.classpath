@@ -3,7 +3,13 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="designPattern"/>
 	<classpathentry kind="src" path="algo"/>
-	<classpathentry kind="src" path="headFirstDesignPatterns"/>
+	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/EclipseLink 2.5.0 - Kepler">
+		<attributes>
+			<attribute name="owner.project.facets" value="jpt.jpa"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.datatools.connectivity.jdt.DRIVERLIBRARY/mysqldriver"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
